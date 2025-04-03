@@ -1,0 +1,24 @@
+body{
+    background-image: url(hatter1.jpg) ;
+    color: white;
+    
+}
+
+h1{
+   text-align: center;
+   font-size: 100px;
+   border: 10px solid;
+   background-color: hotpink;
+}
+a{
+    background-color: black;
+     color: white;
+     border: 2px solid purple; /*purple*/
+     font-size: 50px;
+ }
+ img{
+    padding-left: 700px;
+    width: 5000px;
+
+    
+ }
